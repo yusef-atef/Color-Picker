@@ -1,5 +1,5 @@
 # **Color Picker**
 
-This is a description of your color picker project.
+color picker project with both mode RGB and HSL.
 
 ![Color Picker Screenshot](Color Picker.png)
