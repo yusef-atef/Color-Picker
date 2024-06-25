@@ -2,4 +2,4 @@
 
 This is a description of your color picker project.
 
-![Color Picker Screenshot](./Color Picker.png)
+![Color Picker Screenshot](Color Picker.png)
