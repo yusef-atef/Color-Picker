@@ -1,5 +1,5 @@
-# **Your Project Title**
+# **Color Picker**
 
 This is a description of your color picker project.
 
-![Color Picker Screenshot](color_picker.png)
+![Color Picker Screenshot](./Color Picker.png)
